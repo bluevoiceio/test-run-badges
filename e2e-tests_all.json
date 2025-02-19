@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
   "label": "BV Admin App - e2e tests - all",
-  "message": "failed @ 2025-02-19 01:26:03[UTC]",
-  "color": "red"
+  "message": "passed @ 2025-02-19 04:21:12[UTC]",
+  "color": "brightgreen"
 }
