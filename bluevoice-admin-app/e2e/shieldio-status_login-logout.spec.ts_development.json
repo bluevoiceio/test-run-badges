@@ -1,7 +1,6 @@
 {
   "schemaVersion": 1,
   "label": "BV Admin App: e2e - login-logout.spec.ts - development",
-  "message": "passed @ 2025-02-20 15:53:01[EST]",
-  "color": "brightgreen",
-  "link": "https://bluevoiceio.github.io/test-run-badges/bluevoice-admin-app/e2e/playwright-report_login-logout.spec.ts_development.html"
+  "message": "passed @ 2025-02-20 16:08:51[EST]",
+  "color": "brightgreen"
 }
