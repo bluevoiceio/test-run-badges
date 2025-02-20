@@ -1,6 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "BV Admin App: e2e - documents.spec.ts",
-  "message": "passed @ 2025-02-20 15:06:13[EST]",
+  "message": "passed @ 2025-02-20 15:22:21[EST]",
   "color": "brightgreen"
+  "labelLink": "https://bluevoiceio.github.io/test-run-badges/bluevoice-admin-app/e2e/playwright-report_documents.spec.ts.html"
 }
